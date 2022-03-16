@@ -10,7 +10,7 @@ show_sidebar: true
 
 ### Trieste in a Nutshell
 
-![Piazza Unità d'Italia, Trieste main suqare](/assets/images/Trieste/piazza_unita.jpg)
+![Piazza Unità d'Italia, Trieste main suqare](/assets/images/trieste/piazza_unita.jpg)
 _Piazza Unità d'Italia, Trieste main square_
 
 - Trieste in the most "mitteleuropean" city of Italy, with a rich history
@@ -27,7 +27,7 @@ _Piazza Unità d'Italia, Trieste main square_
 
 ### The University of Trieste
 
-![The main University building](/assets/images/Trieste/piazzale_europa.jpg)
+![The main University building](/assets/images/trieste/piazzale_europa.jpg)
 _The main University building_
 
 - Founded in 1924, recently it has started a project to grow the computer science area
