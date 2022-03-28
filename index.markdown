@@ -1,6 +1,6 @@
 ---
 title: CMC 2022
-subtitle: 23rd I Conference<br>on Membrane Computing<br><b>6-9 September 2022<br>Trieste, Italy</b>
+subtitle: 23rd Conference<br>on Membrane Computing<br><b>6-9 September 2022<br>Trieste, Italy</b>
 layout: page
 hero_image: /assets/images/bg.jpg
 show_sidebar: true
@@ -15,3 +15,5 @@ Membrane Computing is an area of computer science aiming to abstract computing i
 CMC 2022, the 23rd Internationa Conference on Membrane Computing,  aims at continuing the fruitful tradition of previous editions enriched by some new ideas and inspirations emphasising multidisciplinarity and innovative capacity. The conference is intended to bring together researchers working in Membrane Computing and related areas in a friendly atmosphere enhancing communication and cooperation.
 
 CMC 2022 will be held in [Trieste](/venue/).
+
+For more information on ACMC 2022 a link will be available shortly.
