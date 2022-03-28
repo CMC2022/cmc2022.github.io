@@ -8,11 +8,13 @@ show_sidebar: true
 
 ## Call for Papers
 
+This year the **Conference on Membrane Computing** (CMC) and the **Asian Conference on Membrane Computing** (ACMC) are organized as a partially joint event in Trieste, Italy and Quezon City, Philippines under the umbrella event of **ICMC 2022**
+
 ## Conference Topics
 
 Like artificial neural networks, evolutionary algorithms, swarm intelligence, cellular automata and DNA computing, membrane computing is also a branch of natural computing or nature-inspired computing and was initiated by Gheorghe Păun in 1998. It aims to abstract computing models, called membrane systems or P systems, from the structure and the functioning of the living cell as well as from the cooperation of cells in tissues, organs, and populations of cells. This research area has grown into a vigorous scientific discipline and has attracted a large number of researchers all over the world. For more information, please refer to [the P systems Webpage](http://ppage.psystems.eu/) and to the [International Membrane Computing Society Webpage](http://imcs.org.cn/conferences.php).
 
-The 23rd International Conference on Membrane Computing (CMC2022) is organized to provide an open platform to bring together scholars worldwide to present their recent work on membrane computing, on topics related to theory, application and implementation of membrane computing but not limited to as follows:
+ICMC 2022 is organized to provide an open platform to bring together scholars worldwide to present their recent work on membrane computing, on topics related to theory, application and implementation of membrane computing but not limited to as follows:
 
 -  Theoretical aspects of membrane computing
    - Various variants of computing models: cell-, tissue- and neural-like P systems.

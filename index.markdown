@@ -1,6 +1,6 @@
 ---
 title: CMC 2022
-subtitle: International Conference<br>on Membrane Computing<br><b>30 August - 2 September 2022<br>Trieste, Italy</b>
+subtitle: 23rd I Conference<br>on Membrane Computing<br><b>6-9 September 2022<br>Trieste, Italy</b>
 layout: page
 hero_image: /assets/images/bg.jpg
 show_sidebar: true
@@ -8,6 +8,7 @@ show_sidebar: true
 
 ## Conference Info
 
+<b>This year the Conference on Membrane Computing (CMC) and the Asian Conference on Membrane Computing (ACMC) are organized as a partially joint event in Trieste, Italy and Quezon City, Philippines under the umbrella event of ICMC 2022.</b>
 
 Membrane Computing is an area of computer science aiming to abstract computing ideas and models from the structure and the functioning of living cells, as well as from the way the cells are organized in tissues or higher order structures. It deals with membrane systems, also called P systems, which are distributed and parallel algebraic models processing multisets of objects in a localised manner (evolution rules and evolving objects are encapsulated into com- partments delimited by membranes), with an essential role played by the communication among com- partments and with the environment.
 

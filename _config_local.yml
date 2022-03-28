@@ -27,7 +27,7 @@ twitter_username:  cmc2022
 github_username:  mnzluca
 
 # With GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme
+theme: bulma-clean-theme
 # Build settings
 # theme: bulma-clean-theme
 plugins:

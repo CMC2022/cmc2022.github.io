@@ -24,6 +24,10 @@ Only electronic submissions are accepted. Simultaneous submission to other confe
 
 ### Submission via Easychair
 
-The link to submit via easychair will be available shortly.
+A paper can be submitted to either CMC 2022 or ACMC 2022
 
-All submissions will be reviewed by at least three referees. To ensure inclusion of an accepted contribution into the (pre)proceedings volume, at least one of its authors must be registered for CMC 2022. The pre-proceedings volume will be available during the conference. 
+The link to submit to CMC via easychair will be available shortly.
+
+For submission to ACMC 2022 please visit the ACMC 2022 website (link avalilable shortly).
+
+All submissions will be reviewed by at least three referees. To ensure inclusion of an accepted contribution into the (pre)proceedings volume, at least one of its authors must be registered to CMC 2022 or ACMC 2022. The pre-proceedings volume will be available during the conference.

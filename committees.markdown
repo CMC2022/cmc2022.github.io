@@ -47,4 +47,3 @@ show_sidebar: true
 - Giulia Menara, University of Trieste, Italy
 
 
-
