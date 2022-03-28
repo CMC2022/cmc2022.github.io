@@ -14,6 +14,6 @@ Membrane Computing is an area of computer science aiming to abstract computing i
 
 CMC 2022, the 23rd Internationa Conference on Membrane Computing,  aims at continuing the fruitful tradition of previous editions enriched by some new ideas and inspirations emphasising multidisciplinarity and innovative capacity. The conference is intended to bring together researchers working in Membrane Computing and related areas in a friendly atmosphere enhancing communication and cooperation.
 
-CMC 2022 will be held in [Trieste](/venue/).
+CMC 2022 will be held in [Trieste](venue/).
 
 For more information on ACMC 2022 a link will be available shortly.
