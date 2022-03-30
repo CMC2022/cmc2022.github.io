@@ -43,7 +43,7 @@ ICMC 2022 is organized to provide an open platform to bring together scholars wo
 
 ### Submission
 
-[See submission instructions](/submission)
+[See submission instructions](/submission.html)
 
 ### Publication
 
