@@ -47,6 +47,6 @@ ICMC 2022 is organized to provide an open platform to bring together scholars wo
 
 ### Publication
 
-A pre-proceefdings volume will be available during the conference. 
+A pre-proceedings volume will be available during the conference. 
 
 A selections of accepted papers will be re-reviewed and considered for publication in an international journal.
