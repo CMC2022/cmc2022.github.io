@@ -22,6 +22,15 @@ For a maximum four pages. Typical extended abstracts present significant work-in
 
 Only electronic submissions are accepted. Simultaneous submission to other conferences or workshops with published proceedings is not allowed.
 
+### Early and Late Submission
+
+To allow greater flexibility in the submission process, CMC 2022 is giving authors two paths:
+
+- __Early Submission__. By submitting a paper by July 1, 2022 you will receive a notification by July 22, 2022, giving more than one month to prepare the final version of the paper.  
+  To perform an early submission simply upload the pdf of the manuscript by July 1, 2022.
+
+- __Late Submission__. If you need more time to work on the paper, you can submit only an abstract by July 1, 2022 and the paper by July 15, 2022. In this case the notification will be delayed to August 6, 2022.
+
 ### Submission via Easychair
 
 A paper can be submitted to either CMC 2022 or ACMC 2022
