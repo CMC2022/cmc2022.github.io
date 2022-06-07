@@ -33,7 +33,7 @@ The University of Trieste was founded in 1924. It has recently started a project
 - Venice Marco Polo airport. There are buses to the railway station of Venezia Mestre (~20/25 min, <https://www.atvo.it/index.php?lingua=en&area=menustandard&idpadre=23&idmenu=35> or ACTV bus line 15) from where you can take a train to Trieste Centrale (~2 hrs, <https://www.trenitalia.com/en.html>) 
 - Ljubljana airport (Slovenia). There are buses to Ljubljana city centre, from where you can take a train to Trieste Centrale (~2.45 hrs, <https://www.trenitalia.com/en.html>) or a bus (~1.5 hrs, <https://www.flixbus.co.uk/?noRedirect=true> ).
 
-####  by Train 
+####  By Train 
 
 Trieste can be reached by train from the main Italian cities. There are, for example, direct links from Venice (~2 hrs), Milano (~4 hrs), Bologna (~3.5 hrs), Rome (~6 hrs). For more information check the websites <https://www.trenitalia.com/en.html> and <https://www.italotreno.it/en>. 
  
