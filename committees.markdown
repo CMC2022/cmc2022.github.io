@@ -71,7 +71,7 @@ show_sidebar: true
 
 ## Organizing Committee
 
-- Luca Manzoni, University of Trieste, Italy
+- Luca Manzoni, University of Trieste, Italy _(chair)_
 - Giulia Bernardini, University of Trieste, Italy _(chair)_
 - Gloria Pietropolli, University of Trieste, Italy
 - Giulia Menara, University of Trieste, Italy
