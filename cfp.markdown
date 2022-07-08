@@ -49,4 +49,4 @@ ICMC 2022 is organized to provide an open platform to bring together scholars wo
 
 A pre-proceedings volume will be available during the conference. 
 
-A selections of accepted papers will be re-reviewed and considered for publication in an international journal.
+A selections of accepted papers will be re-reviewed and considered for publication in one of the two special issues of the conference in [Journal of Membrane Computing](https://www.springer.com/journal/41965) (Springer) or [Theoretical Computer Science](https://www.sciencedirect.com/journal/theoretical-computer-science) (Elsevier).
