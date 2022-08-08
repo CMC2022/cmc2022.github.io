@@ -17,9 +17,11 @@ More info on the [submission process](/submission.html).
 | Submission Deadline         | ~~May 30, 2022~~  July 1, 2022    |
 | Notification Deadline       | ~~June 30, 2022~~ July 22, 2022   |
 | Final Version               | ~~July 15, 2022~~ August 26, 2022 |
-| Early Registration Deadline | ~~July 20, 2022~~ July 30, 2022   |
+| Early Registration Deadline | ~~July 30, 2022~~ August 20, 2022 |
 | Conference                  | September 6-9, 2022               |
 |-----------------------------|-----------------------------------|
+
+At least one author for each accepted paper must register by August 20, 2022.
 
 ### Late Submission [Extended]
 
@@ -29,6 +31,8 @@ More info on the [submission process](/submission.html).
 | Submission Deadline          | ~~May 30, 2022~~  ~~July 15, 2022~~ July 29, 2022     |
 | Notification Deadline        | ~~June 30, 2022~~ ~~August 5, 2022~~ August 16, 2022  |
 | Final Version                | ~~July 15, 2022~~ ~~August 26, 2022~~ August 29, 2022 |
-| Early Registration Deadline  | ~~July 20, 2022~~ July 30, 2022                       |
+| Early Registration Deadline  | ~~July 30, 2022~~ August 20, 2022                     |
 | Conference                   | September 6-9, 2022                                   |
 |------------------------------|-------------------------------------------------------|
+
+At least one author for each accepted paper must register by August 20, 2022.
