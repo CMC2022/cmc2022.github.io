@@ -31,7 +31,7 @@ To allow greater flexibility in the submission process, CMC 2022 is giving autho
 
 - __Late Submission__ (extended). If you need more time to work on the paper, you can submit your paper by July 29, 2022. In this case the notification will be delayed to August 16, 2022.
 
-At least one author for each accepted paper must register by August 20, 2022.
+At least one author for each accepted paper must register by ~~August 20, 2022~~ August 29, 2022.
 
 ### Submission via Easychair
 

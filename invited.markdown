@@ -15,7 +15,11 @@ show_sidebar: true
 
 **Raluca Lefticaru** graduated from the University of Pitesti, Romania, and completed her PhD thesis in 2011 under the supervision of Prof. Florentin Ipate. She has been a Lecturer at the University of Bucharest and has held several research positions in the UK. She is currently an Assistant Professor at the University of Bradford and a Visiting Researcher at the University of Sheffield, affiliated with the Testing group. Her research interests include model-based testing, formal methods, P systems simulation, verification and testing. She has published numerous articles in prestigious journals and conferences. She has participated in various research projects and has been in the PC of over 25 conferences on Software Testing, Formal Methods and Membrane Computing.
 
-### Sergiu Ivanov
+_Invited talk:_ __Kernel P Systems – Overview__
+
+Introduced 10 years ago, kernel P systems aim to unify the most used concepts from P systems into a single, coherent model. This talk will give an overview of kernel P systems, focusing on some theoretical aspects, such as relations with other families of membrane systems, their expressive power and modelling capacity. It will then discuss the specification languages and software suites that support modelling, simulation and verification of these models. Some recent case studies and applications of kernel P systems will be presented, followed by open problems, challenges and potential research directions. 
+
+#### Sergiu Ivanov
 
 <img src="/assets/images/invited/ivanov.jpeg" alt="Sergiu Ivanov" style="float: left; width: 30%; box-shadow: 10px 10px 8px #888888; margin: 30px">
 
@@ -31,3 +35,7 @@ Sergiu Ivanov's main research domains are:
 - bio-inspired models of computing.
 
 You can find more details about Sergiu Ivanov on his website: [https://www.ibisc.univ-evry.fr/~sivanov/](https://www.ibisc.univ-evry.fr/~sivanov/)
+
+_Invited talk:_ __The Many Shapes of Polymorphism__
+
+This invited talk discusses different ways of expressing plasticity in P sys- tems, with particular focus on polymorphic P systems. Plasticity is the capacity of the system’s structure to evolve. In polymorphic P systems, the rules themselves are allowed to evolve, as their left-hand and right-hand sides are derived from specially designated pairs of membranes. Among other things, this allows for generating fac- torial and superexponential languages in linear time. In this talk, we discuss various properties of polymorphic P systems and list 11 promising open questions.
