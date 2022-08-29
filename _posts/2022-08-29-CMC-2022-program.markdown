@@ -1,0 +1,8 @@
+---
+title: CMC 2022 Program
+layout: post
+hero_image: /assets/images/bg.jpg
+author: CMC 2022 Organizing Committee
+---
+
+The (preliminary) program for CMC 2022 is now available [here](/program.html)
