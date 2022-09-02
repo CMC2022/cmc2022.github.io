@@ -41,3 +41,9 @@ Trieste can be reached by train from the main Italian cities. There are, for exa
 #### Accommodation 
 
 Trieste has numerous hotels of all price ranges. The university is on the hills behind the city centre (<https://goo.gl/maps/fyDNhHUzPb7Q23SSA>), and it is easily reachable in ~15 minutes by local buses (lines 17, 17/, 51, 3, 4) from various points of the city. We recommend you find a room in the city centre, where all the restaurants, bars and shops are. The area in front of the main train station (Trieste Centrale, the area called "Borgo Teresiano" close to the city canal, and the area close to the main square (Piazza Unità) are all great options. 
+
+### Reaching the conference location
+
+It can be reached by bus from the city center by getting down at [the bus stop in Via Valerio 2](https://goo.gl/maps/UKQPkFwhWzHva1536) (lines 17, 17/, 4, 51, 42). From there please follow the directions to the main conference room available [here](/rooms.html). 
+
+The [bus tickets](https://tplfvg.it/it/) can be brought at automatic vending machines near the train station and in some of bus stops. It is also possible to buy them with the app of the transport company managing the buses. For the conference the least expensive options are either two single tickets every day (1.35€ each) or one daily ticket (3€) for each conference day.
