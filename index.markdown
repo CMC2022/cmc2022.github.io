@@ -8,7 +8,7 @@ show_sidebar: true
 
 ## Conference Info
 
-__The late submission deadline for CMC 2022 has been further extended, to July 29, 2022. Check the [relevant dates](/dates.html) and the [submission process](/submission.html).__
+The [conference program](/program.html) is now available. Directions to reach the conference locations are available [here (to reach the university)](/venue.html) and [here (to reach the conference room)](rooms.html)
 
 This year the Conference on Membrane Computing (CMC) and the Asian Conference on Membrane Computing (ACMC) are organized as a partially joint event in Trieste, Italy and Quezon City, Philippines under the umbrella event of ICMC 2022.
 
