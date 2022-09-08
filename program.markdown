@@ -21,13 +21,13 @@ All day _except the morning of September 7_ the conference will be located in th
 |   9:00-9:30 | Opening Ceremony                                                                                                                                                      |
 |  9:30-10:30 | ACMC Keynote (streaming)                                                                                                                                              |
 | 10:30-11:00 | Coffee Break                                                                                                                                                          |
-| 11:00-12:00 | __Invited talk__ (session chair: Luca Manzoni)                                                                                                                                 |
+| 11:00-12:00 | __Invited talk__ (session chair: Luca Manzoni)                                                                                                                        |
 |             | _Sergiu Ivanov_ <br> The Many Shapes of Polymorphism                                                                                                                  |
 | 12:00-13:30 | Lunch                                                                                                                                                                 |
-| 13:30-15:00 | __Paper Session 1__  (session chair: Jose M. Sempere)                                                                                                                             |
+| 13:30-15:00 | __Paper Session 1__  (session chair: Jose M. Sempere)                                                                                                                 |
 |             | _Zsolt Gazdag and Károly Hajagos_ <br> A characterisation of P by polarizationless P systems using only membrane dissolution rules                                    |
 |             | _David Orellana-Martín, Luis Valencia-Cabrera and Mario J. Pérez-Jiménez_ <br> Simulation of the environment in tissue P systems with evolutional communication rules |
-|             | _Alberto Dennunzio, Enrico Formenti, Luca Manzoni and Luciano Margara_ <br> Introducing Topology in P-systems                                                          |
+|             | _Alberto Dennunzio, Enrico Formenti, Luca Manzoni and Luciano Margara_ <br> Introducing Topology in P-systems with Active Membranes                                   |
 
 
 #### Welcome Cocktail
@@ -82,4 +82,5 @@ From 20:00 at the [Pier restaurant](https://www.pierts.it), Molo Venezia 1, Trie
 | 10:30-11:30 | __Invited Talk__ (session chair: Claudio Zandron) |
 |             | _Raluca Lefticaru_                                |
 |             | Kernel P Systems – Overview                       |
-| 11:30-12:30 | Closing Ceremony                                  |
+| 11:30-12:00 | Mini-brainstorming session __NEW!__
+| 12:00-12:30 | Closing Ceremony                                  |
