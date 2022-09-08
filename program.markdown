@@ -82,5 +82,5 @@ From 20:00 at the [Pier restaurant](https://www.pierts.it), Molo Venezia 1, Trie
 | 10:30-11:30 | __Invited Talk__ (session chair: Claudio Zandron) |
 |             | _Raluca Lefticaru_                                |
 |             | Kernel P Systems – Overview                       |
-| 11:30-12:00 | Mini-brainstorming session __NEW!__
+| 11:30-12:00 | Mini-brainstorming session __NEW!__ |
 | 12:00-12:30 | Closing Ceremony                                  |
